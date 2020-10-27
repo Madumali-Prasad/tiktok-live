@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>573250886734-2q70dj0rbmha5re86q9007dr6pt1h008.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.573250886734-2q70dj0rbmha5re86q9007dr6pt1h008</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBlfEHgNHwVax1TzAGBYyGSAevll172a1A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>573250886734</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.davish.agorartm</string>
+	<key>PROJECT_ID</key>
+	<string>moda-chathuryawith-madumatz</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moda-chathuryawith-madumatz.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:573250886734:ios:bd473f2aea13da3719f71f</string>
+	<key>DATABASE_URL</key>
+	<string>https://moda-chathuryawith-madumatz.firebaseio.com</string>
+</dict>
+</plist>
